@@ -6,9 +6,9 @@
 #include<stdlib.h>
 
 /**
- * struct print - print 
+ * struct print - print
  * @sp: to print to output
- * @f: The print function
+ * @p: The print function
  *
  */
 
